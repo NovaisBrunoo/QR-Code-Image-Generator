@@ -9,6 +9,7 @@ function Man() {
             <h1>QR Code Image Generator</h1>
             <BasicForm />
             <BasicButton />
+
         </div>
     );
 }
