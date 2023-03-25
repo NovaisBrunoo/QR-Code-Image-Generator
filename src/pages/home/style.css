@@ -7,3 +7,7 @@
     height: 100vh;
     width: 100vw;
 }
+
+.container h1 {
+    margin-bottom: 25px;
+}
