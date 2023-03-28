@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: 'http://localhost:6000',
+    baseURL: 'https://qr-code-generation-api-7gq8.vercel.app/',
     timeout: 10000,
     headers: { 'Content-Type': 'application/json' }
 });
