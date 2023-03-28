@@ -10,7 +10,7 @@ import { useState, useEffect } from 'react'
 function Scanne() {
     const [qrcodeLink, setQrcodeLink] = useState('')
     const name = getItem('name')
-    const url = `http://localhost:3000/User/${name}`
+    const url = `https://qr-code-image-generator-seven.vercel.app/User/${name}`
 
     function handleGenerate(link_url) {
         QRCodeLink.toDataURL(link_url, {
