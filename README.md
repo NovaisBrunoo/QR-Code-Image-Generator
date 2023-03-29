@@ -20,3 +20,10 @@ O código QR gerado é exibido na tela, permitindo que o usuário possa salvá-l
 
 ## Como executar o projeto
 A execução do projeto esta tudo armazenado em um servidor , para executar o projeto basta entrar na URL ( ' https://qr-code-image-generator-seven.vercel.app/ ' ) 
+
+### Extra 
+
+  - Deploy
+  - Organização de pasta
+  - Video Upado no Youtube
+  
