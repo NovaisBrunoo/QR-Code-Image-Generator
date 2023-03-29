@@ -1,6 +1,6 @@
 .btn-basic {
     all: unset;
-    border: 1px solid lightgray;
+    border: 1px solid red;
     border-radius: 10px;
     width: 70%;
     text-align: center;
